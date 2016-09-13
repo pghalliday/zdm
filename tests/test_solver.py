@@ -2,16 +2,16 @@
 # -*- coding: utf-8 -*-
 
 """
-test_zdm
+test_solver
 ----------------------------------
 
-Tests for zdm
+Tests for solver
 """
 
-from zdm import zdm
+from zdm import solver
 
 
-class TestZdm(object):
+class TestSolver(object):
 
     def test_something(self):
         pass
